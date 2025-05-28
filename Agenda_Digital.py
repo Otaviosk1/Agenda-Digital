@@ -1,4 +1,4 @@
-# Agenda Digital em Python
+# Agenda Digital em Python - Paulo, Otavio e Leonardo
 agenda = {}
 
 def inserir_contato():
